@@ -4,5 +4,8 @@ Just. a social epxerimnet to understad how spam words.
 
 trying to connect ollama to claude code to make this project.
 
+> 28 Mar 26
+
+no progress visible still.
 
 
