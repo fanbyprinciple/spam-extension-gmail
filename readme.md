@@ -8,4 +8,8 @@ trying to connect ollama to claude code to make this project.
 
 no progress visible still.
 
+> 29 Mar 26
+
+UNderstanding the intricaciesof simulators on macbook.
+
 
