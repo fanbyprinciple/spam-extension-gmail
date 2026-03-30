@@ -12,4 +12,6 @@ no progress visible still.
 
 UNderstanding the intricaciesof simulators on macbook.
 
+> 30 Mar 26 
 
+Learning firebase app
