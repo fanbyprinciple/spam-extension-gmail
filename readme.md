@@ -15,3 +15,7 @@ UNderstanding the intricaciesof simulators on macbook.
 > 30 Mar 26 
 
 Learning firebase app
+
+> 31 Apr 26
+
+done nothing
